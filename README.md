@@ -1,4 +1,4 @@
-# AWS-Project
+# Adicionando Segurança em APIs na AWS com Amazon Cognito
 
 Principais componentes e tecnologias envolvidas:
 
